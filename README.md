@@ -1,4 +1,4 @@
-### App Hosted In 
+### Check through
 https://chit-chat-app-i20z.onrender.com
 
 ### Setup .env file
